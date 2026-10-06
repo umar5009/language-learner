@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ielts_english",
+    "name": "IELTS English",
+    "flagEmoji": "🇬🇧",
+    "institute": "British Council, IDP IELTS, Cambridge University Press & Assessment",
+    "framework": "IELTS bands 0–9 mapped to CEFR A1 → C2",
+    "description": "A 9-week IELTS pathway using the official four papers (Listening, Reading, Writing, Speaking). Weeks 1–2 target A1 / bands ~2.0–2.5, 3–4 A2 / 3.0–3.5, 5–6 B1 / 4.0–5.0, 7–8 B2 / 5.5–6.5, week 9 C1 / 7.0–8.0, with a C2 / 8.5–9.0 mock after week 9. Classroom scores are practice estimates, not British Council results.",
+    "fileName": "ielts_english.json",
+    "weekCount": 9
+  },
+  {
+    "id": "german",
+    "name": "German",
+    "flagEmoji": "🇩🇪",
+    "institute": "Goethe-Institut",
+    "framework": "Goethe-Zertifikat A1 → C2 (CEFR)",
+    "description": "A Goethe-Institut pathway: weeks 1–2 Start Deutsch 1 (A1), 3–4 A2, 5–6 B1, 7–8 B2, week 9 C1, plus a C2 GDS mock. Each level trains Lesen, Hören, Schreiben and Sprechen in the official paper order.",
+    "fileName": "german.json",
+    "weekCount": 9
+  },
+  {
+    "id": "czech",
+    "name": "Czech",
+    "flagEmoji": "🇨🇿",
+    "institute": "ÚJOP Charles University",
+    "framework": "CCE A1 → C1 (ÚJOP; no official C2)",
+    "description": "A CCE pathway used by Czech institutes: A1–C1 with reading, listening, writing and speaking. From B2 the mock also includes the official grammar/lexical paper.",
+    "fileName": "czech.json",
+    "weekCount": 9
+  },
+  {
+    "id": "spanish",
+    "name": "Spanish",
+    "flagEmoji": "🇪🇸",
+    "institute": "Instituto Cervantes (Spanish Ministry of Education)",
+    "framework": "DELE A1 → C2 (Instituto Cervantes)",
+    "description": "An Instituto Cervantes / DELE pathway: A1–B2 four-skill diplomas, C1 integrated skills, and a C2 mock with mediation. Passing follows the official grouped-score rule in classroom form.",
+    "fileName": "spanish.json",
+    "weekCount": 9
+  },
+  {
+    "id": "japanese",
+    "name": "Japanese",
+    "flagEmoji": "🇯🇵",
+    "institute": "Japan Foundation / JEES",
+    "framework": "JLPT N5 → N1 (CEFR A1 → C1; no official C2 paper)",
+    "description": "A Japan Foundation / JLPT pathway: N5–N1. Official mocks score Language Knowledge, Reading and Listening. Speaking and writing are JF Can-do classroom practice because JLPT does not test production.",
+    "fileName": "japanese.json",
+    "weekCount": 9
+  },
+  {
+    "id": "french",
+    "name": "French",
+    "flagEmoji": "🇫🇷",
+    "institute": "France Éducation international / Alliance Française centres",
+    "framework": "DELF A1–B2 / DALF C1–C2",
+    "description": "An Alliance Française / DELF-DALF pathway: A1–B2 (DELF), C1 (DALF), plus a DALF C2 mock. Each diploma trains compréhension orale, compréhension des écrits, production écrite and production orale.",
+    "fileName": "french.json",
+    "weekCount": 9
+  },
+  {
+    "id": "finnish",
+    "name": "Finnish",
+    "flagEmoji": "🇫🇮",
+    "institute": "Finnish National Agency for Education (OPH)",
+    "framework": "YKI 1–6 = CEFR A1–C2",
+    "description": "A YKI pathway: perustaso 1–2, keskitaso 3–4, ylin taso 5 on week 9, plus a grade-6 mock. Listening, speaking, reading and writing are scored as separate subtests, matching OPH rules.",
+    "fileName": "finnish.json",
+    "weekCount": 9
+  },
+  {
+    "id": "korean",
+    "name": "Korean",
+    "flagEmoji": "🇰🇷",
+    "institute": "King Sejong Institute / NIIED TOPIK",
+    "framework": "TOPIK 1급 → 6급 (≈ CEFR A1 → C2)",
+    "description": "A King Sejong / TOPIK pathway: 1–2급 (TOPIK I: listening+reading), 3–5급 on weeks 5–9 (TOPIK II adds writing), 6급 mock after week 9. Speaking follows the separate TOPIK Speaking 6-task format.",
+    "fileName": "korean.json",
+    "weekCount": 9
+  }
+]
